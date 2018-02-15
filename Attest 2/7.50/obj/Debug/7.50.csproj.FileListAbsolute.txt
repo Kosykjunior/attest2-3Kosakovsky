@@ -1,0 +1,12 @@
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\bin\Debug\7.50.exe.config
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\bin\Debug\7.50.exe
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\bin\Debug\7.50.pdb
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\bin\Debug\tools.dll
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\bin\Debug\tools.pdb
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\obj\Debug\7.50.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\obj\Debug\_7._50.Form1.resources
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\obj\Debug\_7._50.Properties.Resources.resources
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\obj\Debug\7.50.csproj.GenerateResource.Cache
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\obj\Debug\7.50.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\obj\Debug\7.50.exe
+C:\Users\Andre\source\repos\TimurK\attest2\7.50\obj\Debug\7.50.pdb

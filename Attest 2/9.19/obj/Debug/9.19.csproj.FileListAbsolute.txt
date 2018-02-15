@@ -1,0 +1,14 @@
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\bin\Debug\9.19.exe.config
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\bin\Debug\9.19.exe
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\bin\Debug\9.19.pdb
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\bin\Debug\tools.dll
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\bin\Debug\ToolsGrid.dll
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\bin\Debug\ToolsGrid.pdb
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\bin\Debug\tools.pdb
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\obj\Debug\9.19.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\obj\Debug\_9._19.Form1.resources
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\obj\Debug\_9._19.Properties.Resources.resources
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\obj\Debug\9.19.csproj.GenerateResource.Cache
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\obj\Debug\9.19.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\obj\Debug\9.19.exe
+C:\Users\Andre\source\repos\TimurK\attest2\9.19\obj\Debug\9.19.pdb
